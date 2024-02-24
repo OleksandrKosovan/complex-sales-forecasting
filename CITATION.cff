@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kosovan"
+  given-names: "Oleksandr"
+- family-names: "Datsko"
+  given-names: "Myroslav"
+title: "Complex Comparison of Statistical and Econometrics Methods for Sales Forecasting"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-02-24
+url: "https://github.com/OleksandrKosovan/complex-sales-forecasting"
+
