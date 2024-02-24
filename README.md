@@ -2,6 +2,8 @@
 
 Sales forecasting is critical for decision-making in the retail industry. This study delves into the contemporary landscape of sales forecasting methods, aiming to empirically assess the performance of various statistical and econometric models. Through rigorous evaluation across diverse datasets, we aim to identify stable methods with reliable predictive capabilities. Our research contributes by establishing baseline models that offer trustworthy forecasts, thus guiding practical applications and future research efforts. The paper meticulously details the study’s methodology, results, and discussions, providing a comprehensive understanding of the strengths, limitations, and implications of the evaluated forecasting methods.
 
+![plot](files/plot.png)
+
 # Data Sets
 
 - M5 Forecasting. [URL](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)
